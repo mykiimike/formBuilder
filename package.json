@@ -7,9 +7,6 @@
     "url": "https://github.com/kevinchappell/formBuilder.git",
     "type": "git"
   },
-  "files": [
-    "dist/**/*"
-  ],
   "author": "Kevin Chappell <kevin.b.chappell@gmail.com>",
   "contributors": [],
   "bugs": "https://github.com/kevinchappell/formBuilder/issues",
@@ -23,7 +20,6 @@
   ],
   "license": "MIT",
   "ignore": [
-    "**/*",
     "node_modules",
     "test"
   ],
